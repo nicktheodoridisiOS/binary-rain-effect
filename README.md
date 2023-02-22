@@ -10,6 +10,8 @@ iPhone 14 Pro device.
 
 ### <b>Screenshots</b>
 
+<img src="screenshot.png" width = "175px">
+
 ### <b>Run the project</b>
 
 🔗 Run the project
